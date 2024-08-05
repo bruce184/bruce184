@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bruce184" alt="bruce184" /></a> </p>
 
-- 🔭 I’m currently working on **Personal Finance Tracker**
+- 🔭 I’m currently working on **developing applications and game**
 
-- 👯 I’m looking to collaborate on **A Web-based Game or Application**
+- 👯 I’m looking to collaborate on **a Web-based Game or Application**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
