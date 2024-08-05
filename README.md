@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/bruce-nguyen-1aa0b9298/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bruce nguyen" height="30" width="40" /></a>
-<a href="https://fb.com/nguyễn huy hoàng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nguyễn huy hoàng" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100065773660478" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nguyễn huy hoàng" height="30" width="40" /></a>
 <a href="https://instagram.com/hoang030305" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hoang030305" height="30" width="40" /></a>
 </p>
 
