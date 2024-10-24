@@ -1,0 +1,3 @@
+Ko có code khai báo biến 
+
+Kiểu dữ liệu của biến có thể thay đổi

@@ -1,1 +1,12 @@
 Python is AN OBJECT ORIENTED PROGRAMMING LANGUAGE
+
+# Python Indetation (Khoảng cách đầu dòng)
+Khoảng cách đầu mỗi dòng code RẤT QUAN TRỌNG trong python để ĐỊNH DẠNG 1 PHẦN CODE 
+→ LƯU Ý KHI XUỐNG DÒNG 
+
+# Comments
+Use  `#` or `‘’’ ‘’’`  for very long string (note, string value)  
+MUST BE 3 
+
+# Libraries
+Remeber to CHECK ALL THE NESSCARY libraries in order for the code to executed right

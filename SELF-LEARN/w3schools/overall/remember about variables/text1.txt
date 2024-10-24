@@ -1,0 +1,25 @@
+1. There 2 main type of varables: → use `type(<variable>)` to know 
+    - STRINGS: 
+        + prioritize `‘ ’`, then `“ ”` ,  these can combine many variables
+            code 
+        + can loop through a long string by 
+            using "for" loop 
+                code 
+            use indexes ↔ can customize the range 
+                code
+            also use "for" loop to check if a word/character in the string 
+                code
+
+    use `f`  before the string and `{}` in the string for it to be multifunction → cleaner code syntax, more function in 1 line of string 
+        inside the placeholders can be anything: variables, function (format type, math, if else statement,..)
+        but USE different symbol 
+
+    - NUMBERS: use `random([range])` to generate a random line of numbers: `random(1, 10)`
+            use operators to execute function: Arithmetic, Assignment, Comparison, Logical 
+    
+2. Syntax style (naming): *snake* style `variable_1 = 6`
+3. There are 2 kind of variable scope (the region it can be used): 
+    - LOCAL variables: means inside a function → can ONLY be executed INSIDE that function ⇒ use `global` keyword before the name to use it globally
+    - GLOBAL variables: outside functions → DEFAULT VALUE for all the function that don’t have a specified value for it
+
+            
